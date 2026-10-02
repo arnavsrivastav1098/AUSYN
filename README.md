@@ -44,7 +44,6 @@ Cloud AI is optional and disabled by default.
 Ausyn does not automatically:
 
 - delete files
-- close applications
 - install Windows updates
 - change important system settings without confirmation
 - claim that correlation proves the cause of a problem
@@ -89,10 +88,7 @@ Detailed documentation is available in the `docs` directory.
 
 Ausyn is actively under development.
 
-Current public version: v0.5.0
+Current public version: v0.6.0
 
 Expect features, behaviour and interfaces to evolve as development continues.
 
-## License
-
-[Add your license information here]
