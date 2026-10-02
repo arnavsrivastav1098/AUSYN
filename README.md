@@ -25,7 +25,7 @@ conditions, and provides cautious, user-controlled recommendations.
 
 ## Current release
 
-Ausyn v0.5.0
+Ausyn v0.6.0
 
 Available as:
 
